@@ -1,7 +1,12 @@
 ## Keycloak playground
 
-# local-scenario based on https://github.com/oauth2-proxy/oauth2-proxy/tree/master/contrib/local-environment
+Local-scenario based on https://github.com/oauth2-proxy/oauth2-proxy/tree/master/contrib/local-environment
 
+TODO: 
+- extend and document better
+- more scenarios
+
+### Contents
 * pre-configured Keycloak
 * application exposed with authentication using oauth2-proxy
 
